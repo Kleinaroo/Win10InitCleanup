@@ -1,6 +1,6 @@
 # Win10InitCleanup
 
-1) Make sure to have to your ExecutionPolicy set to Unrestricted or to launch it with Bypass.
+1) Make sure to have to your PowerShell ExecutionPolicy set to Unrestricted or to launch it with Bypass. This can be done using Set-ExecutionPolicy Unrestricted
 
 2) Run PowerShell as Administrator
 
